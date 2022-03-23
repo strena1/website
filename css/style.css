@@ -41,12 +41,6 @@
         background-color: #ffffff;
     }
 
-    a:not(.basedcar) {
-        background: #fff;
-        color: blue;
-        padding: 3px;
-    }
-
 
     .basedcar {
         background: #fff;
@@ -89,11 +83,7 @@
         background-color: #151515;
     }
 
-    a:not(.basedcar) {
-        background: #151515;
-        color: #ffffff;
-        padding: 3px;
-    }
+
 
         a:not(.basedcar):hover {
             color: #000;
