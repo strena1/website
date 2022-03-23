@@ -47,11 +47,6 @@
         padding: 3px;
     }
 
-        a:not(.basedcar):hover {
-            color: white;
-            background-color: #000000;
-            text-decoration: none;
-        }
 
     .basedcar {
         background: #fff;
