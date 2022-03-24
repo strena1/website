@@ -27,20 +27,21 @@
     h1 {
         text-align: center;
         /*font-family: Arial, sans-serif;*/
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
         color: #000000;
         background-color: #ffffff;
-        font-family: "Comic Sans MS", "Comic Sans", cursive;
+      
     }
 
     p {
         text-align: center;
         /*font-family: Georgia, serif; */
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
         font-size: 14px;
         font-style: normal;
         font-weight: normal;
         color: #000000;
         background-color: #ffffff;
-        font-family: "Comic Sans MS", "Comic Sans", cursive;
     }
 
 
